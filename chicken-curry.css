@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#title {
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    background-color: rgb(241,80,80);
+    color: white;
+}
+
+ol li {
+    text-align: left;
+    font-weight: bold;
+}
+
+ul li {
+    text-align: left;
+    font-weight: bold;
+}
+
+
