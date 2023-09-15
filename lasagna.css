@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.ingredients {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    background-color: rgb(241, 80, 80);
+    color: white;
+    text-align: left;
+}
+
+p {
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+}
+
+ol li {
+    text-align: left;
+}
+
+ul li {
+    text-align: left;
+}
